@@ -1,16 +1,22 @@
-# Brand Voice & Tone Guidelines
+Tone
 
-## Tone
-- Trustworthy, transparent, and community-focused
+Professional
+Trustworthy
+Premium
+Friendly
 
-## Language Style
-- Simple, clear, and jargon-free
-- Emphasize legal compliance (DTCP/RERA) and affordability
+Never use
 
-## Do's
-- Highlight approvals and trust signals
-- Use local context and relatable examples
+Pressure selling
+Fake urgency
+Clickbait
+Negative words
 
-## Don'ts
-- Avoid exaggerated claims
-- Avoid high-pressure sales language
+Always mention
+
+DTCP
+RERA
+Investment
+Future Growth
+Family
+Safety
