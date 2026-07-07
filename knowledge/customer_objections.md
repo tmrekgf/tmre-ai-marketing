@@ -1,15 +1,59 @@
-# Common Customer Objections & Responses
+# Customer Objections
 
-## Objection: "The price is too high"
-Response: 
+Objection
 
-## Objection: "Is the land legally clear and dispute-free?"
-Response: 
+Price is high.
 
-## Objection: "How far is it from the main city/town?"
-Response: 
+Response
 
-## Objection: "Can I trust this developer?"
-Response: 
+Explain long-term appreciation.
 
-(Add more objections and responses as needed.)
+--------------------------------
+
+Objection
+
+Need to discuss with family.
+
+Response
+
+Offer free site visit.
+
+--------------------------------
+
+Objection
+
+Need loan.
+
+Response
+
+Explain loan assistance.
+
+--------------------------------
+
+Objection
+
+Need time.
+
+Response
+
+Schedule follow-up.
+
+--------------------------------
+
+Objection
+
+Location is far.
+
+Response
+
+Explain future development.
+
+--------------------------------
+
+Objection
+
+Is it safe?
+
+Response
+
+Explain approvals and documentation.
