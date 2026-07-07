@@ -1,8 +1,50 @@
-# Team
+# Marketing Team
 
-## Name
-- Role: 
-- Bio: 
-- Contact: 
+Marketing Manager
 
-(Add additional team members below using the same format.)
+Responsible for
+
+Campaign Approval
+
+Performance Review
+
+Branding
+
+Meta Ads
+
+Google Ads
+
+Lead Generation
+--------------------------------
+
+Designer
+
+Responsible for
+
+Creative Design
+
+Reels
+
+Videos
+
+--------------------------------
+
+Telecalling Team
+
+Responsible for
+
+Calling Leads
+
+Booking Site Visits
+
+Follow-up
+
+--------------------------------
+
+Sales Team
+
+Responsible for
+
+Site Visits
+
+Closing Sales
