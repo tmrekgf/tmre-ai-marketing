@@ -1,15 +1,63 @@
 # Frequently Asked Questions
 
-## Q: Are your plots and layouts DTCP and RERA approved?
-A: 
+Q:
+Is DTCP Approved?
 
-## Q: Do you provide bank loan assistance?
-A: 
+A:
+Yes.Approved
 
-## Q: Which locations do you operate in?
-A: 
+--------------------------------
 
-## Q: What documents will I receive after purchase?
-A: 
+Q:
+Is RERA Approved?
 
-(Add more Q&A pairs as needed.)
+A:
+Mention only for approved projects.
+
+--------------------------------
+
+Q:
+Bank Loan Available?
+
+A:
+Yes 90% Available 
+
+--------------------------------
+
+Q:
+Can I visit today?
+
+A:
+Yes Sure
+
+--------------------------------
+
+Q:
+Registration Charges?
+
+A:
+Sales Team will explain.
+
+--------------------------------
+
+Q:
+Is Water Available?
+
+A:
+Yes.
+
+--------------------------------
+
+Q:
+Can I build immediately?
+
+A:
+Yes
+
+--------------------------------
+
+Q:
+Can NRIs buy?
+
+A:
+Yes.
