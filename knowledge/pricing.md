@@ -1,14 +1,14 @@
-# Pricing Information
+# Pricing
 
-## Plots
-- Price per sq.ft / cent: 
+Pricing changes frequently.
 
-## Villas / Houses
-- Starting Price: 
+Never mention price unless available.
 
-## Payment Plans
-- Down payment: 
-- Installment options: 
-- Bank loan tie-ups: 
+Mention
 
-(Update with current pricing details for each project.)
+Affordable Pricing
+
+Flexible Payment
+90% Bank Loan Available
+
+CTA
