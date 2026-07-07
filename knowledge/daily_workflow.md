@@ -1,29 +1,29 @@
 # AI Daily Workflow
 
-16:00 
+17:00 
 
 Generate Content
 
-16:20 
+17:15
 
 Generate Reels
 
-16:40
+17:20
 
 Generate Captions
 
-16:50
+17:40
 
 Create Asana Tasks
 
-17:10 pm
+18:10 pm
 
 Notify Marketing Manager
 
-17:20
+18:20
 
 Performance Report
 
-22:00
+19:00
 
 Save Logs
