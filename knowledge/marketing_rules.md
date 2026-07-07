@@ -7,4 +7,20 @@
 - Ensure all pricing shown is current and accurate
 - Use approved brand voice and tone across all channels
 
+Always include CTA.
+
+Always mention project location.
+
+Always mention approvals.
+
+Keep Facebook posts below 200 words.
+
+Instagram captions under 120 words.
+
+Use emojis sparingly.
+
+End with phone number.
+
+Always use TMRE branding.
+
 (Expand with additional internal marketing rules as needed.)
