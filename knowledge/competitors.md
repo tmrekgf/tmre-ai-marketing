@@ -1,9 +1,23 @@
-# Competitor Analysis
+# Competitors
 
-## Competitor Name
-- Strengths: 
-- Weaknesses: 
-- Price Positioning: 
-- Differentiation from TMRE: 
+Monitor
 
-(Add additional competitors below using the same format.)
+Local Developers
+
+National Builders
+
+Compare
+
+Price
+
+Amenities
+
+Approvals
+
+Location
+
+Marketing
+
+Never criticize competitors.
+
+Always focus on TMRE strengths.
