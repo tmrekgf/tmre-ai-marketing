@@ -1,8 +1,25 @@
-# Current Offers & Promotions
+# Current Offers
 
-## Offer Name
-- Description: 
-- Validity Period: 
-- Terms & Conditions: 
+Offer 1
 
-(List all active offers below using the same format.)
+Free Site Visit
+
+Offer 2
+
+90% Bank Loan Options
+
+Offer 3
+
+Loan Assistance
+
+Offer 4
+
+Limited Time Booking Benefits
+
+Offer 5
+
+Referral Rewards
+
+Rules
+
+Always verify active offers before publishing.
